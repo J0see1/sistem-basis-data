@@ -1,5 +1,9 @@
 # Dokumentasi Tugas Kelas SBD
 
+    Marcelinus Alvinanda Chrisantya
+    5027221012
+    Sistem Basis Data B
+
 # Konten
 
 - [Soal 1](#soal-1)

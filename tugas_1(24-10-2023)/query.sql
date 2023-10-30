@@ -1,3 +1,5 @@
+-- Link repo github : https://github.com/J0see1/sistem-basis-data
+
 -- soal 1
 SELECT name_student, desc_task, score, name_course, name_lecturer
 FROM akademik.student 
